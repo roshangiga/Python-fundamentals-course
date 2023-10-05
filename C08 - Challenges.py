@@ -81,16 +81,16 @@ else:
 # Question 5 - Matrix Transpose
 # -------------------------------------------------------------------------------------------------------
 
-arrays = [
+matrix = [
   	[1, 5],
   	[2, 0],
   	[7, 8],
 ]
   
-for row, col in arrays:
+for row, col in matrix:
   print(row),
   
 print
   
-for row, col in arrays:
+for row, col in matrix:
   print(col),
