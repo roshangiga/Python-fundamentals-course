@@ -18,7 +18,7 @@ user_list.append(user_input)
 # 3. Print this list by reversing it using slicing.
 print(nums[-1::-1])
 
-# 4. Change the last element to 10.
+# 4. Change the last element to 0.
 nums[-1] = 0
 print(nums)
 
